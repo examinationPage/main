@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/DS_Recruitment/!svn/ver/67/DS_Recruitment/src/com/gdut/ds/daoImpl/examination
+END
+StudentAnswersANDGradeDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/DS_Recruitment/!svn/ver/20/DS_Recruitment/src/com/gdut/ds/daoImpl/examination/StudentAnswersANDGradeDaoImpl.java
+END
+FillInTheBlankDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/DS_Recruitment/!svn/ver/20/DS_Recruitment/src/com/gdut/ds/daoImpl/examination/FillInTheBlankDaoImpl.java
+END
+ExaminationQuestionsDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/DS_Recruitment/!svn/ver/67/DS_Recruitment/src/com/gdut/ds/daoImpl/examination/ExaminationQuestionsDaoImpl.java
+END
+InformationForExamDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DS_Recruitment/!svn/ver/23/DS_Recruitment/src/com/gdut/ds/daoImpl/examination/InformationForExamDaoImpl.java
+END
+ExamPaperDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DS_Recruitment/!svn/ver/20/DS_Recruitment/src/com/gdut/ds/daoImpl/examination/ExamPaperDaoImpl.java
+END
+ProceduralQuestionsAnswerDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/DS_Recruitment/!svn/ver/20/DS_Recruitment/src/com/gdut/ds/daoImpl/examination/ProceduralQuestionsAnswerDaoImpl.java
+END
+ProceduralQuestionsDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/DS_Recruitment/!svn/ver/20/DS_Recruitment/src/com/gdut/ds/daoImpl/examination/ProceduralQuestionsDaoImpl.java
+END
+MultipleChoiceDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/DS_Recruitment/!svn/ver/20/DS_Recruitment/src/com/gdut/ds/daoImpl/examination/MultipleChoiceDaoImpl.java
+END

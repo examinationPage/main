@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/DS_Recruitment/!svn/ver/288/DS_Recruitment/src/com/gdut/ds/service
+END
+QuestionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DS_Recruitment/!svn/ver/87/DS_Recruitment/src/com/gdut/ds/service/QuestionService.java
+END
+ArticleService.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DS_Recruitment/!svn/ver/288/DS_Recruitment/src/com/gdut/ds/service/ArticleService.java
+END
+UserInfoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DS_Recruitment/!svn/ver/285/DS_Recruitment/src/com/gdut/ds/service/UserInfoService.java
+END
+MemberService.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DS_Recruitment/!svn/ver/288/DS_Recruitment/src/com/gdut/ds/service/MemberService.java
+END
+InterecommunionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DS_Recruitment/!svn/ver/195/DS_Recruitment/src/com/gdut/ds/service/InterecommunionService.java
+END
+ImageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/DS_Recruitment/!svn/ver/87/DS_Recruitment/src/com/gdut/ds/service/ImageService.java
+END
+ResultService.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DS_Recruitment/!svn/ver/190/DS_Recruitment/src/com/gdut/ds/service/ResultService.java
+END
+LeavingWordService.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DS_Recruitment/!svn/ver/87/DS_Recruitment/src/com/gdut/ds/service/LeavingWordService.java
+END
+ActivityService.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DS_Recruitment/!svn/ver/195/DS_Recruitment/src/com/gdut/ds/service/ActivityService.java
+END
+InformationManagementService.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/DS_Recruitment/!svn/ver/130/DS_Recruitment/src/com/gdut/ds/service/InformationManagementService.java
+END
+ExaminationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DS_Recruitment/!svn/ver/167/DS_Recruitment/src/com/gdut/ds/service/ExaminationService.java
+END

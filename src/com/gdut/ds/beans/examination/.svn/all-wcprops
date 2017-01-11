@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/DS_Recruitment/!svn/ver/208/DS_Recruitment/src/com/gdut/ds/beans/examination
+END
+ProceduralQuestions.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/DS_Recruitment/!svn/ver/208/DS_Recruitment/src/com/gdut/ds/beans/examination/ProceduralQuestions.java
+END
+ProceduralQuestionsAnswer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/DS_Recruitment/!svn/ver/208/DS_Recruitment/src/com/gdut/ds/beans/examination/ProceduralQuestionsAnswer.java
+END
+ExamPaper.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DS_Recruitment/!svn/ver/208/DS_Recruitment/src/com/gdut/ds/beans/examination/ExamPaper.java
+END
+ExaminationQuestions.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DS_Recruitment/!svn/ver/208/DS_Recruitment/src/com/gdut/ds/beans/examination/ExaminationQuestions.java
+END
+InformationForExam.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/DS_Recruitment/!svn/ver/208/DS_Recruitment/src/com/gdut/ds/beans/examination/InformationForExam.java
+END
+FillInTheBlank.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DS_Recruitment/!svn/ver/208/DS_Recruitment/src/com/gdut/ds/beans/examination/FillInTheBlank.java
+END
+StudentAnswersANDGrade.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/DS_Recruitment/!svn/ver/208/DS_Recruitment/src/com/gdut/ds/beans/examination/StudentAnswersANDGrade.java
+END
+MultipleChoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DS_Recruitment/!svn/ver/208/DS_Recruitment/src/com/gdut/ds/beans/examination/MultipleChoice.java
+END

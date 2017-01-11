@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DS_Recruitment/!svn/ver/312/DS_Recruitment/src/com/gdut/ds/action/examination/manager
+END
+GetTheSetOfExaminationQuestionsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/DS_Recruitment/!svn/ver/174/DS_Recruitment/src/com/gdut/ds/action/examination/manager/GetTheSetOfExaminationQuestionsAction.java
+END
+AddTheFillInTheBlankListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/DS_Recruitment/!svn/ver/167/DS_Recruitment/src/com/gdut/ds/action/examination/manager/AddTheFillInTheBlankListAction.java
+END
+DeleteTheMultipleChoiceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/DS_Recruitment/!svn/ver/167/DS_Recruitment/src/com/gdut/ds/action/examination/manager/DeleteTheMultipleChoiceAction.java
+END
+ReviseTheProceduralQuestionsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/DS_Recruitment/!svn/ver/167/DS_Recruitment/src/com/gdut/ds/action/examination/manager/ReviseTheProceduralQuestionsAction.java
+END
+GetTheInformationForExamAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/DS_Recruitment/!svn/ver/146/DS_Recruitment/src/com/gdut/ds/action/examination/manager/GetTheInformationForExamAction.java
+END
+AddASetOfExaminationQuestionsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/DS_Recruitment/!svn/ver/167/DS_Recruitment/src/com/gdut/ds/action/examination/manager/AddASetOfExaminationQuestionsAction.java
+END
+ReviseInformationForExamAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/DS_Recruitment/!svn/ver/152/DS_Recruitment/src/com/gdut/ds/action/examination/manager/ReviseInformationForExamAction.java
+END
+JudgementOfsetIDAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/DS_Recruitment/!svn/ver/167/DS_Recruitment/src/com/gdut/ds/action/examination/manager/JudgementOfsetIDAction.java
+END
+DeleteTheFillInTheBlankAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/DS_Recruitment/!svn/ver/167/DS_Recruitment/src/com/gdut/ds/action/examination/manager/DeleteTheFillInTheBlankAction.java
+END
+DeleteTheSetOfExaminationQuestionsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/DS_Recruitment/!svn/ver/167/DS_Recruitment/src/com/gdut/ds/action/examination/manager/DeleteTheSetOfExaminationQuestionsAction.java
+END
+DeleteTheProceduralQuestionsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/DS_Recruitment/!svn/ver/167/DS_Recruitment/src/com/gdut/ds/action/examination/manager/DeleteTheProceduralQuestionsAction.java
+END
+ReviseTheMultipleChoiceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/DS_Recruitment/!svn/ver/167/DS_Recruitment/src/com/gdut/ds/action/examination/manager/ReviseTheMultipleChoiceAction.java
+END
+GetAllInformationForExamAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/DS_Recruitment/!svn/ver/152/DS_Recruitment/src/com/gdut/ds/action/examination/manager/GetAllInformationForExamAction.java
+END
+ReviseTheFillInTheBlankAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/DS_Recruitment/!svn/ver/167/DS_Recruitment/src/com/gdut/ds/action/examination/manager/ReviseTheFillInTheBlankAction.java
+END
+GetALLTheExaminationQuestionsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/DS_Recruitment/!svn/ver/165/DS_Recruitment/src/com/gdut/ds/action/examination/manager/GetALLTheExaminationQuestionsAction.java
+END
+AddTheMultipleChoiceListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/DS_Recruitment/!svn/ver/167/DS_Recruitment/src/com/gdut/ds/action/examination/manager/AddTheMultipleChoiceListAction.java
+END
+AddTheProceduralQuestionsListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/DS_Recruitment/!svn/ver/167/DS_Recruitment/src/com/gdut/ds/action/examination/manager/AddTheProceduralQuestionsListAction.java
+END
+ExportTheApplicationFromAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/DS_Recruitment/!svn/ver/312/DS_Recruitment/src/com/gdut/ds/action/examination/manager/ExportTheApplicationFromAction.java
+END
+AddInformationForExamAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/DS_Recruitment/!svn/ver/152/DS_Recruitment/src/com/gdut/ds/action/examination/manager/AddInformationForExamAction.java
+END

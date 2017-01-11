@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/DS_Recruitment/!svn/ver/182/DS_Recruitment/src/com/gdut/ds/dao/introduction
+END
+ArticleDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DS_Recruitment/!svn/ver/87/DS_Recruitment/src/com/gdut/ds/dao/introduction/ArticleDao.java
+END
+InterecommunionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DS_Recruitment/!svn/ver/87/DS_Recruitment/src/com/gdut/ds/dao/introduction/InterecommunionDao.java
+END
+MemberDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DS_Recruitment/!svn/ver/161/DS_Recruitment/src/com/gdut/ds/dao/introduction/MemberDao.java
+END
+ImageDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DS_Recruitment/!svn/ver/87/DS_Recruitment/src/com/gdut/ds/dao/introduction/ImageDao.java
+END
+ResultDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DS_Recruitment/!svn/ver/182/DS_Recruitment/src/com/gdut/ds/dao/introduction/ResultDao.java
+END
+ActivityDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DS_Recruitment/!svn/ver/87/DS_Recruitment/src/com/gdut/ds/dao/introduction/ActivityDao.java
+END
+BaseDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DS_Recruitment/!svn/ver/87/DS_Recruitment/src/com/gdut/ds/dao/introduction/BaseDao.java
+END

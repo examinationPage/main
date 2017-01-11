@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/DS_Recruitment/!svn/ver/288/DS_Recruitment/src/com/gdut/ds/serviceImpl
+END
+ArticleServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DS_Recruitment/!svn/ver/288/DS_Recruitment/src/com/gdut/ds/serviceImpl/ArticleServiceImpl.java
+END
+QuestionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DS_Recruitment/!svn/ver/97/DS_Recruitment/src/com/gdut/ds/serviceImpl/QuestionServiceImpl.java
+END
+UserInfoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DS_Recruitment/!svn/ver/285/DS_Recruitment/src/com/gdut/ds/serviceImpl/UserInfoServiceImpl.java
+END
+InterecommunionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DS_Recruitment/!svn/ver/195/DS_Recruitment/src/com/gdut/ds/serviceImpl/InterecommunionServiceImpl.java
+END
+MemberServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DS_Recruitment/!svn/ver/288/DS_Recruitment/src/com/gdut/ds/serviceImpl/MemberServiceImpl.java
+END
+ImageServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DS_Recruitment/!svn/ver/87/DS_Recruitment/src/com/gdut/ds/serviceImpl/ImageServiceImpl.java
+END
+ResultServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DS_Recruitment/!svn/ver/190/DS_Recruitment/src/com/gdut/ds/serviceImpl/ResultServiceImpl.java
+END
+LeavingWordServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DS_Recruitment/!svn/ver/284/DS_Recruitment/src/com/gdut/ds/serviceImpl/LeavingWordServiceImpl.java
+END
+ActivityServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DS_Recruitment/!svn/ver/195/DS_Recruitment/src/com/gdut/ds/serviceImpl/ActivityServiceImpl.java
+END
+InformationManagementServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DS_Recruitment/!svn/ver/130/DS_Recruitment/src/com/gdut/ds/serviceImpl/InformationManagementServiceImpl.java
+END
+ExaminationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DS_Recruitment/!svn/ver/167/DS_Recruitment/src/com/gdut/ds/serviceImpl/ExaminationServiceImpl.java
+END

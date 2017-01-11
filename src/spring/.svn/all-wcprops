@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/DS_Recruitment/!svn/ver/305/DS_Recruitment/src/spring
+END
+applicationContext-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DS_Recruitment/!svn/ver/285/DS_Recruitment/src/spring/applicationContext-service.xml
+END
+applicationContext-actionExamination_Manager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DS_Recruitment/!svn/ver/267/DS_Recruitment/src/spring/applicationContext-actionExamination_Manager.xml
+END
+applicationContext-actionExamination_Public.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/DS_Recruitment/!svn/ver/267/DS_Recruitment/src/spring/applicationContext-actionExamination_Public.xml
+END
+applicationContext-actionInformationManagement.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/DS_Recruitment/!svn/ver/239/DS_Recruitment/src/spring/applicationContext-actionInformationManagement.xml
+END
+applicationContext-actionUserInfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DS_Recruitment/!svn/ver/267/DS_Recruitment/src/spring/applicationContext-actionUserInfo.xml
+END
+applicationContext-actionIntroduction.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DS_Recruitment/!svn/ver/288/DS_Recruitment/src/spring/applicationContext-actionIntroduction.xml
+END
+applicationContext-actionWrod.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DS_Recruitment/!svn/ver/302/DS_Recruitment/src/spring/applicationContext-actionWrod.xml
+END
+applicationContext-hibernate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DS_Recruitment/!svn/ver/305/DS_Recruitment/src/spring/applicationContext-hibernate.xml
+END
+applicationContext-dao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/DS_Recruitment/!svn/ver/285/DS_Recruitment/src/spring/applicationContext-dao.xml
+END
+applicationContext-beans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DS_Recruitment/!svn/ver/285/DS_Recruitment/src/spring/applicationContext-beans.xml
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/DS_Recruitment/!svn/ver/302/DS_Recruitment/src/com/gdut/ds/action/word
+END
+GetLeavingWordAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DS_Recruitment/!svn/ver/86/DS_Recruitment/src/com/gdut/ds/action/word/GetLeavingWordAction.java
+END
+SendLeavingWordAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DS_Recruitment/!svn/ver/302/DS_Recruitment/src/com/gdut/ds/action/word/SendLeavingWordAction.java
+END
+AnswerForLeavingWord.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DS_Recruitment/!svn/ver/86/DS_Recruitment/src/com/gdut/ds/action/word/AnswerForLeavingWord.java
+END
+GetQuestionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DS_Recruitment/!svn/ver/86/DS_Recruitment/src/com/gdut/ds/action/word/GetQuestionAction.java
+END

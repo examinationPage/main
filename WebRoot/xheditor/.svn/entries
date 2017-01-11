@@ -1,0 +1,74 @@
+10
+
+dir
+314
+http://code.taobao.org/svn/DS_Recruitment/DS_Recruitment/WebRoot/xheditor
+http://code.taobao.org/svn/DS_Recruitment
+
+
+
+2016-03-25T23:22:48.180409Z
+274
+asd60153
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6d6ee733-7c16-47e7-90e3-eb1dbf6fc2de
+
+xheditor-1.2.2.min.js
+file
+
+
+
+
+2017-01-10T08:37:08.770000Z
+b02ee2f6ba339cea16353c7701114bbb
+2016-02-28T03:25:46.677667Z
+24
+cjfcjf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+69322
+
+xheditor_emot
+dir
+
+xheditor_lang
+dir
+
+xheditor_plugins
+dir
+
+xheditor_skin
+dir
+
